@@ -42,7 +42,7 @@ Images link to github pages where projects are deployed
 Media queries used for creating a responsive layout
 
 ## Screenshot of deployed site
-![Web page](Capture.PNG)
+![Adam's Portfolio Website](Chellenge-week-2/assets/Capture.PNG)
 
 ## Link to deployed site
 https://variegatedhuman.github.io/Challenge-week-2/
