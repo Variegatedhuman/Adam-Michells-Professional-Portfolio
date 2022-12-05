@@ -45,7 +45,7 @@ Media queries used for creating a responsive layout
 ![Adam's Portfolio Website](assets/Capture.PNG)
 
 ## Link to deployed site
-https://variegatedhuman.github.io/Challenge-week-2/
+https://variegatedhuman.github.io/Adam-Michells-Professional-Portfolio/
 
 ## Authors and acknowledgment
 Adam Michell with special thanks to my tutors and TAs
