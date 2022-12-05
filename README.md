@@ -1,5 +1,5 @@
-# Challenge 2
-Homework assignment for week 2
+# Adam Michell's Portfolio
+Biography and Portfolio for Adam Michell
 
 ## Project Goal
 Project fulfills the following criteria:
